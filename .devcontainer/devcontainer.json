@@ -3,3 +3,11 @@
   "features": {
   }
 }
+
+
+{
+  ...
+  "build": { "dockerfile": "Dockerfile" },
+  ...
+}
+
